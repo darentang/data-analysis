@@ -1,0 +1,75 @@
+name	subgroup	pre	pos
+Akbarnezhad 2019	Manual therapy Placebo	14	14
+Akbarnezhad 2019	Manual therapy Therapeutic	14	14
+Alkhawajah 2019	Manual therapy Placebo	20	20
+Alkhawajah 2019	Manual therapy Therapeutic	20	20
+Anandkumar 2014	Taping Placebo	20	20
+Anandkumar 2014	Taping Therapeutic	20	20
+Bar-Ziv 2010	Foot orthosis Placebo	26	25
+Bar-Ziv 2010	Foot orthosis Therapeutic	31	29
+Barrios 2009 	Foot orthosis Placebo	31	31
+Barrios 2009 	Foot orthosis Therapeutic	35	35
+Bennell 2005 (#722)	Multimodal physiotherapy Placebo	67	67
+Bennell 2005 (#722)	Multimodal physiotherapy Therapeutic	73	73
+Bennell 2011 (#1108)	Foot orthosis Placebo	97	97
+Bennell 2011 (#1108)	Foot orthosis Therapeutic	103	103
+Bennell 2013 (#4607)	Foot orthosis Placebo	7	7
+Bennell 2013 (#4607)	Foot orthosis Therapeutic	5	5
+Cho 2015	Taping Placebo	23	23
+Cho 2015	Taping Therapeutic	23	23
+Cudejko 2017 	Brace Placebo	44	44
+Cudejko 2017 	Brace Therapeutic	44	44
+Deyle 2000	Multimodal physiotherapy Placebo	36	36
+Deyle 2000	Multimodal physiotherapy Therapeutic	33	33
+Donec 2020	Taping Placebo	93	76
+Donec 2020	Taping Therapeutic	94	81
+Erhart 2010 (#4284)	Foot orthosis Placebo	39	26
+Erhart 2010 (#4284)	Foot orthosis Therapeutic	40	34
+Foroughi 2011 (#231)	Exercise Placebo	25	25
+Foroughi 2011 (#231)	Exercise Therapeutic	20	20
+Hatef 2014	Foot orthosis Placebo	61	61
+Hatef 2014	Foot orthosis Therapeutic	57	57
+Hayati 2019	Taping Placebo	37	19
+Hayati 2019	Taping Therapeutic	37	37
+Hinman 2003 (#2003)	Taping Placebo	29	29
+Hinman 2003 (#2003)	Taping Therapeutic	29	29
+Hinman 2016 	Foot orthosis Placebo	81	80
+Hinman 2016 	Foot orthosis Therapeutic	83	80
+Hjartarson 2018 	Brace Placebo	75	34
+Hjartarson 2018 	Brace Therapeutic	74	52
+Hunter 2011 (#2278)	Brace Placebo	39	39
+Hunter 2011 (#2278)	Brace Therapeutic	41	41
+Hunter 2012 (#622) 	Brace Placebo	40	40
+Hunter 2012 (#622) 	Brace Therapeutic	40	40
+Kocyigit 2015	Taping Placebo	20	20
+Kocyigit 2015	Taping Therapeutic	21	21
+Leon-Ballesteros 2020	Taping Placebo	16	16
+Leon-Ballesteros 2020	Taping Therapeutic	16	16
+Mutlu 2017 (#1838) 	Taping Placebo	19	19
+Mutlu 2017 (#1838) 	Taping Therapeutic	20	20
+Ogut 2018	Taping Placebo	30	30
+Ogut 2018	Taping Therapeutic	31	31
+Pham 2004	Foot orthosis Placebo	74	74
+Pham 2004	Foot orthosis Therapeutic	82	82
+Pinheiro 2020	Taping Placebo	15	15
+Pinheiro 2020	Taping Therapeutic	15	15
+Pollard 2008	Manual therapy Placebo	17	17
+Pollard 2008	Manual therapy Therapeutic	26	26
+Rahlf 2019	Taping Placebo	47	47
+Rahlf 2019	Taping Therapeutic	47	47
+Reichenbach 2020	Foot orthosis Placebo	109	109
+Reichenbach 2020	Foot orthosis Therapeutic	111	111
+Rodrigues 2008	Foot orthosis Placebo	14	14
+Rodrigues 2008	Foot orthosis Therapeutic	16	16
+Tan 2019 (#5186)	Foot orthosis Placebo	11	11
+Tan 2019 (#5186)	Foot orthosis Therapeutic	12	12
+Tan 2020 (#2856)	Foot orthosis Placebo	5	5
+Tan 2020 (#2856)	Foot orthosis Therapeutic	8	8
+Tanaka 2018	Manual therapy Placebo	16	16
+Tanaka 2018	Manual therapy Therapeutic	16	16
+Toda 2005 (#4497) 	Foot orthosis Placebo	22	22
+Toda 2005 (#4497) a	Foot orthosis Therapeutic	21	21
+Toda 2008 (#502)	Foot orthosis Placebo	38	38
+Toda 2008 (#502)	Foot orthosis Therapeutic	43	43
+Wageck 2016	Taping Placebo	38	36
+Wageck 2016	Taping Therapeutic	38	36
